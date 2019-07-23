@@ -10,3 +10,11 @@ Just me.
 
 ## Setup & Requirements
 This project requires a computer and internet.
+
+*look this is in italics!*
+
+1. first floor
+2. second floor
+3. third floor
+4. fourth floor
+5. mystery fifth floor
